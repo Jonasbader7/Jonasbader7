@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Jonas Bader – GitHub Portfolio</title><desc id="desc">Dunkelblauer Header mit Petrol-Akzent und dem Leitsatz Was mich antreibt, geht über den Bildschirm hinaus.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10212c"/><stop offset="1" stop-color="#1b363e"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#84c7ac"/><stop offset="1" stop-color="#6695a6"/></linearGradient></defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="url(#line)" opacity=".23"><circle cx="1110" cy="150" r="85"/><circle cx="1110" cy="150" r="145"/><circle cx="1110" cy="150" r="205"/><circle cx="1110" cy="150" r="265"/><path d="M810 0V340M880 0V340M950 0V340"/></g>
+<rect x="54" y="52" width="46" height="4" rx="2" fill="#92c9b6"/>
+<text x="54" y="99" fill="#b3d6cf" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="3">DIGITAL BUSINESS &amp; AI   /   BFH</text>
+<text x="52" y="167" fill="#f7faf8" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="700">Jonas Bader</text>
+<text x="54" y="223" fill="#eff5f1" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="500">Was mich antreibt, geht über den</text>
+<text x="54" y="260" fill="#a4ddc4" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="600">Bildschirm hinaus.</text>
+<text x="54" y="302" fill="#afc3c7" font-family="Arial,Helvetica,sans-serif" font-size="16">FINANZEN   ·   DATEN   ·   TECHNOLOGIE   ·   WIRKUNG</text>
+</svg>
