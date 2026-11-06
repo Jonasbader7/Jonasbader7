@@ -2,7 +2,7 @@
 
 Ich studiere **Digital Business & AI** an der Berner Fachhochschule, mit Schwerpunkt Datenanalyse. Davor war ich mehrere Jahre in der Bank und habe Physik studiert. Heute baue ich aus echten Daten Werkzeuge, die man benutzen kann.
 
-**[Portfolio ansehen](https://jonasbader7.github.io/Portfoliopage/)** · Bern, Schweiz · Deutsch, Englisch (C1), Französisch (B2)
+**[Portfolio ansehen](https://jonasbader7.github.io/Portfoliopage/)** · Bern, Schweiz · Deutsch, Englisch, Französisch
 
 #### Ausgewählte Projekte
 
