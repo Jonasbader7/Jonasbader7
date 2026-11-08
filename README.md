@@ -1,4 +1,4 @@
-### Hallo, ich bin Jonas
+### Hallo, ich bin Jonas Bader
 
 Ich studiere **Digital Business & AI** an der Berner Fachhochschule, mit Schwerpunkt Datenanalyse. Davor war ich mehrere Jahre in der Bank und habe Physik studiert. Heute baue ich aus echten Daten Werkzeuge, die man benutzen kann.
 
