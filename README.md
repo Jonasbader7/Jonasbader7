@@ -9,6 +9,7 @@ Ich studiere **Digital Business & AI** an der Berner Fachhochschule, mit Schwerp
 | Projekt | Worum es geht | Technik |
 |---|---|---|
 | [**GreenRoute**](https://github.com/Jonasbader7/GreenRoute) · [Live](https://jonasbader7.github.io/GreenRoute/) | Einsatzrouting für Blaulichtfahrzeuge: Welche Strasse passt für welches Fahrzeug? Teamprojekt, ich als Product Owner und für die ganze Technik | Python, QGIS, SQLite, JavaScript, MapLibre GL |
+| [**Projekt Transparenz**](https://github.com/Jonasbader7/Projekt-Transparenz) · [Demo](https://jonasbader7.github.io/Projekt-Transparenz/) | Was steckt wirklich in einem «nachhaltigen» Fonds? Jede Position mit Quelle, Datum und Datenstand belegt, Datenlücken offen gezeigt, kein Gesamtscore. In Arbeit, Demo mit fiktiven Daten | Python, pandas, SQLite, Streamlit |
 | [**Portfolio**](https://github.com/Jonasbader7/Portfoliopage) | Meine Website in drei Sprachen, ohne Framework | HTML, CSS, JavaScript |
 | [**Freddy**](https://github.com/Jonasbader7/freddy-entrepreneurship-2024) | Jurypreis an der BFH Entrepreneurship Week 2024; mein Teil: Videoschnitt und Bearbeitung | LumaFusion |
 | [**Lebenserwartung in R**](https://github.com/Jonasbader7/life-expectancy-analysis-r) | Regression mit Interaktion für 100 US-Regionen, reproduzierbar (R² = 0,46) | R |
